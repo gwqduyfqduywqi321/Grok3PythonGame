@@ -39,5 +39,3 @@ This Python project uses Pygame to create an interactive orbital animation simul
 ## License
 This project is open-source and available under the MIT License. Feel free to modify and distribute it, but please retain this README and credit the original author.
 
-## Contact
-For questions or contributions, contact [Your Name/Email] or open an issue on this repository.
